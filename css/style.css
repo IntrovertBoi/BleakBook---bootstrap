@@ -27,10 +27,10 @@ body{
 }
 
 .navbar-nav li a{
-    margin: 5px;
+    margin: 30px 5px 30px 5px;
     border: 2px black solid;
     background-color: lightgray;
-    line-height: 50px;
+    line-height: 10px;
 }
 
 .navbar-nav li a.active{
@@ -38,13 +38,9 @@ body{
 }
 
 .navbar-toggle{
-    margin: 5px;
+    margin: 30px;
     background-color: lightgray;
     border: 2px black solid;
-}
-
-.navbar-inverse .navbar-toggle .icon-bar {
-    background-color: #ffffff;
 }
 
 #bookslogo{
@@ -219,6 +215,7 @@ footer {
         padding-top: 10px;
         padding-bottom: 10px;
         line-height: 10px;
+        margin:5px;
     }
     .navbar-text {
         float: none;
