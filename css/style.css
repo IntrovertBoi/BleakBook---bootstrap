@@ -151,6 +151,11 @@ footer {
     box-shadow: 2px 2px 5px #ddd;
 }
 
+.video-container {
+    position: relative;
+    overflow: auto;
+}
+
 #about-us{
     text-align: left;
     padding: 10px;
