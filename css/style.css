@@ -134,6 +134,48 @@ footer {
     border: 2px black solid;
 }
 
+.gallery-link{
+    display: inline-block;
+    text-align: center;
+    padding: 50px 50px;
+    cursor: pointer;
+}
+
+.photos{
+    max-width: 300px;
+    box-shadow: 2px 2px 5px #ddd;
+}
+
+#about-us{
+    text-align: left;
+    padding: 10px;
+    font-size: 20px;
+}
+
+#about-us p{
+    padding: 10px;
+}
+
+.warning{
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#contacts{
+    padding: 10px 0px 10px 0px;
+}
+
+.contact-info{
+    font-weight: bold;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.map{
+    margin: 10px;
+    padding: 10px;
+}
+
 @media screen and (max-width: 767px) {
     .sidenav {
         height: auto;
