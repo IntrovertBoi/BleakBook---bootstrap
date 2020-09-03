@@ -1,4 +1,4 @@
 # BleakBook-bootstrap
- Project website with bootstrap
+ School project website using HTML, CSS and bootstrap.
  
- https://introvertboi.github.io/BleakBook-bootstrap/
+Published at: https://introvertboi.github.io/BleakBook-bootstrap/
